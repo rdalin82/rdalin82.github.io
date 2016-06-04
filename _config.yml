@@ -4,8 +4,8 @@ email: Robert.Dalin@gmail.com
 description: > #
 url: "http://www.RobertDalin.com" # the base hostname & protocol for your site
 twitter_username: #rdalin
-github_username:  rdalin82
-instagram_username: #robertdalin
+github_username: rdalin82
+instagram_username: robertdalin
 
 # Build settings
 markdown: kramdown
