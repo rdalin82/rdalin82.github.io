@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title:  "Taking up photography"
 date:   2019-06-16 18:16:01
 categories: photography
