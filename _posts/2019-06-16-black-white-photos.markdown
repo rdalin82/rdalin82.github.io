@@ -1,4 +1,3 @@
--post.markdown
 ---
 layout: project
 title:  "Taking up photography"
